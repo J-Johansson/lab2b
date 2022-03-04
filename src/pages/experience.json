@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "namn": "Markoms Multitaxi",
+      "titel": "Taxi Chaufför",
+      "datum": "April 2017 - September 2021",
+      "information": "Kört taxi i mer än 4 år i Örnsköldsvik."
+    },
+    {
+      "id": 2,
+      "namn": "PostNord",
+      "titel": "Chaufför",
+      "datum": "Maj 2016 - December 2016",
+      "information": "Körde ut paket till företag och privat personer."
+    },
+    {
+      "id": 3,
+      "namn": "Willys",
+      "titel": "Butiksmedarbetare",
+      "datum": "Oktober 2015 - November 2015",
+      "information": "Praktik i 5 månader."
+    },
+    {
+        "id": 4,
+        "namn": "ProfessionalConsulting",
+        "titel": "IT-Tekniker/Support",
+        "datum": "November 2014 - December 2014",
+        "information": "IT-konsult under två stycken PC-utrullningar"
+    },
+    {
+        "id": 5,
+        "namn": "ProfessionalConsulting",
+        "titel": "IT-Tekniker/Support",
+        "datum": "September 2014 - September 2014",
+        "information": "IT-konsult under två stycken PC-utrullningar"
+    }
+  ]
