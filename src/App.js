@@ -15,6 +15,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
+      <Route exact path="lab2b" />
         <Route path="/" element ={<Layout />}>
           <Route index element={<Home />} />
           <Route path="about" element ={<About />} />
