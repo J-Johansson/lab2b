@@ -1,27 +1,22 @@
 [
     {
       "id": 1,
-      "namn": "Systemutvecklare med AI-Kompetens",
-      "datum": "September 2021 - ****"
+      "namn": "Systemutvecklare med AI-Kompetens"
     },
     {
       "id": 2,
-      "namn": "El och Energi med inriktning Dator och Kommunikations teknik",
-      "datum": "****-****"
+      "namn": "El och Energi med inriktning Dator och Kommunikations teknik"
     },
     {
         "id": 3,
-        "namn": "Svenska",
-        "datum": "Modersmål"
+        "namn": "Svenska: Modersmål"
     },
     {
         "id": 4,
-        "namn": "Engelska",
-        "datum": "Mycket goda kunskaper"
+        "namn": "Engelska: Mycket goda kunskaper"
     },
     {
         "id": 5,
-        "namn": "Tyska",
-        "datum": "Nybörjarnivå"
+        "namn": "Tyska: Nybörjarnivå"
     }   
 ]
