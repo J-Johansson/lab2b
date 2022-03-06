@@ -13,14 +13,14 @@ import NoPage from './pages/NoPage';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="lab2b">
       <Routes>
         <Route path="/" element ={<Layout />}>
           <Route index element={<Home />} />
           <Route path="about" element ={<About />} />
           <Route path="contact" element ={<Contact />} />
           <Route path="experience" element ={<Experience />} />
-          <Route path="portfolio" element ={<Portfolio />} />
+          <Route absolute path="portfolio" element ={<Portfolio />} />
           <Route path="*" element ={<NoPage />} />
         </Route>
       </Routes>
