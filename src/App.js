@@ -17,10 +17,10 @@ export default function App() {
       <Routes>
         <Route path="/" element ={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="about" element ={<About />} />
-          <Route path="contact" element ={<Contact />} />
-          <Route path="experience" element ={<Experience />} />
-          <Route absolute path="portfolio" element ={<Portfolio />} />
+          <Route path="About" element ={<About />} />
+          <Route path="Contact" element ={<Contact />} />
+          <Route path="Experience" element ={<Experience />} />
+          <Route path="Portfolio" element ={<Portfolio />} />
           <Route path="*" element ={<NoPage />} />
         </Route>
       </Routes>
