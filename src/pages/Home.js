@@ -5,7 +5,7 @@ const Home = () => {
         <div className="container">
         <div>
             <h1>Hej o Välkommen till mitt CV</h1>
-            <img className="frontpage_susge" src={susge} alt="Susge Picture" height="300" width="300" />
+            <img className="frontpage_susge" src={susge} alt="Susge Picture" height="400" width="400" />
         </div>
 
 
